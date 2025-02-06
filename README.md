@@ -8,7 +8,7 @@
    ```bash
    git clone https://github.com/Cooperos/analog_detector
    ```
-* Скачайте данные для обучения и поместите их в директорию **Images** [Ссылка]()
+* Скачайте данные для обучения и поместите их в директорию **Images** [Ссылка](https://yandex.ru/video/preview/9791159952283275697)
 * Запустите скрипт для обучения модели и получения предсказаний:
     ```bash
     python my_dag_airflow.py
