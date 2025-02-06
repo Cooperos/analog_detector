@@ -10,7 +10,7 @@
 * YOLO Detect & YOLO Classificator (https://docs.ultralytics.com/ru/models/)
 * Tensorflow CNN (https://www.tensorflow.org/?hl=ru)
 
-![YOLO arch](images/gre2kvy6az2jboykgg_jvazb3jg.jpeg)
+![YOLO arch](gre2kvy6az2jboykgg_jvazb3jg.jpeg)
 
 # Принцип работы системы
 Работа системы делится на этапы:
