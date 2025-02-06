@@ -19,7 +19,7 @@
 * **YOLO Detect & YOLO Classificator:** Для обнаружения объектов и классификации изображений. [Документация YOLO](https://docs.ultralytics.com/ru/models/)
 * **TensorFlow CNN:** Для построения и обучения сверточных нейронных сетей. [Документация TensorFlow](https://www.tensorflow.org/?hl=ru)
 
-![YOLO arch](images/gre2kvy6az2jboykgg_jvazb3jg.jpeg)
+![YOLO arch](gre2kvy6az2jboykgg_jvazb3jg.jpeg)
 
 # Принцип работы системы
 Работа системы разделена на несколько этапов:
